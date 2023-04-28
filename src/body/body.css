@@ -1,0 +1,55 @@
+.imgC {
+    width: 20%;
+    border-radius: 8px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.parrafo1{
+    text-align: left;
+    margin-top: -10%;
+
+}
+
+div .parrafo2{
+    text-align: right;
+    margin-top: -9%;
+}
+/*img 1, 2, 3*/
+
+.fotos1 img { 
+    width: 20%;
+    position: absolute;
+    top: 174%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.fotos2 img { 
+    width: 20%;
+    position: absolute;
+    top: 175%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+}
+
+.fotos3 img { 
+    width: 20%;
+    position: absolute;
+    top: 175%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+}
+
+/* video*/
+
+.video iframe {
+    position: absolute;
+    top: 150%;
+    width: 300px;
+    height: 250px;
+}
+
