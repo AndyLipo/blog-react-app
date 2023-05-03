@@ -35,7 +35,7 @@ export default function Body() {
             </div>
             <div className="row">
                 <div className="video">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/XctRwihO6EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/XctRwihO6EA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                 </div>
                 <div className="fotos1">
                     <img src="https://www.arqhys.com/wp-content/fotos/2011/09/Dise%C3%B1oy-construccion-de-casas-de-madera.jpg" alt=""></img>
